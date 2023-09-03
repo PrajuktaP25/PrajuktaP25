@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajuktap25" alt="prajuktap25" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - ⚡ Fun fact **I am funny**
 
